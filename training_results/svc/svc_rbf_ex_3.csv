@@ -1,0 +1,4 @@
+C,principal_components,gamma,probablity,accuracy_train,f1_train,accuracy_test,f1_test,accuracy_difference
+5,150,0.0012,False,0.93,0.929,0.556,0.563,0.374
+5,150,0.0013,False,0.933,0.932,0.553,0.56,0.38
+5,150,0.0014,False,0.936,0.936,0.552,0.559,0.384
